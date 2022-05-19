@@ -1,4 +1,4 @@
-package DataBase;
+package dataBase;
 
 import org.bson.Document;
 

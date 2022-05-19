@@ -1,4 +1,4 @@
-package mongoProject;
+package app;
 
 import java.sql.Connection;
 import java.sql.SQLException;
@@ -7,10 +7,10 @@ import org.bson.Document;
 
 import com.mongodb.client.MongoCollection;
 
-import DataBase.JDBC;
-import DataBase.MongoDB;
+import dataBase.JDBC;
+import dataBase.MongoDB;
 
-public class MongoAppMain {
+public class AppMain {
 
 	public static void main(String[] args) {
 		
